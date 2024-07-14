@@ -19,7 +19,7 @@ Ensure the following is installed in your pyhton environment:
 
 ## KNN
 
-Execute the following to run the Ordinary Least Squares version of Linear Regression
+Execute the following to get a classification model using K-Nearest Neighbor algorithm:
 
 ```bash
 python main.py <k>
