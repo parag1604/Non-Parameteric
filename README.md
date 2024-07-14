@@ -30,7 +30,7 @@ Train             |  &nbsp;Test&nbsp;
 :-------------------------:|:-------------------------:
 ![A plot showing how the model fits the data on the train set](static/decision_boundary.png "KNN Train Fit")  |  ![A plot showing how the model fits the data on the test set](static/decision_boundary_test.png "KNN Test Fit")
 
-The accuracy on the dataset splits should be >95%:
+The accuracy on the test split should be >95%:
 
 ```bash
 $ python main.py 5
