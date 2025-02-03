@@ -7,7 +7,7 @@ Code for K-Nearest Neighbor algorithm (a non-parametric modeling technique)
 
 ## Theory
 
-Please note that the theory corresponding to the codes is hosted on [link](https://parag1604.github.io/notes/Machine-Learning/Non-parametric-Models)
+Please note that the theory corresponding to the codes is hosted on this [page](https://parag1604.github.io/notes/Machine-Learning/Non-parametric-Models)
 
 ## Python Environment Setup
 
